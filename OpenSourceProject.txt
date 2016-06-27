@@ -1,0 +1,6 @@
+Clone open source project.
+Experiment on it.
+
+1. https://github.com/FlyCatZout/OpenSource_BSD.git
+
+2. https://github.com/pmem/valgrind.git
